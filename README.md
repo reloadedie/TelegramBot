@@ -1,4 +1,4 @@
-# Telegram_KrotoBot
+# TelegramBot
 this is my anti-spam bot...using BOT API Telegram and C#
 
 Func's:
